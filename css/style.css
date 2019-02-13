@@ -1,0 +1,106 @@
+
+
+#signout{   color: #fff;
+    height: 45px;
+    width: 160px;
+    font-size: 20px;
+    border: 0px inset #008A00;
+    background:  #FF0606;
+    
+    border-radius: 7px;
+}
+#signout:hover{
+    background: #FF5E5E;
+    font-size: 22px
+}
+   
+   
+#wrapp{
+    width: 1050px;
+
+    height: auto;
+    margin: auto;
+}
+#left {
+    width: 750px;
+    height: 350px;
+    
+    margin-top: 10px;
+    
+}
+#right{
+    width: 250px ;
+    height: 350px;
+   
+     margin-top: -365px;
+    margin-left: 798px;
+    border-radius: 10px;
+    font-size: 28px;  
+   
+}
+#inp{
+height: 35px;
+width: 170px;
+border-radius: 7px;
+}
+#signin{
+    color:  #fff;
+    background-color: #0000DF;
+    width: 128px ;
+    height: 40px;
+    font-size: 20px;
+   font-family: cursive;
+   border: 0px solid ;
+   border-radius: 7px;
+}
+#signin:hover{
+    
+    background: #4848FF;
+}
+
+#regreg{
+    color: #fff;
+    height: 45px;
+    width: 160px;
+    font-size: 20px;
+    border: 0px inset #008A00;
+    background:  #004F00;
+    
+    border-radius: 7px;
+}
+#regreg:hover{
+    background: #00CE00;
+    font-size: 22px
+}
+#clock {
+    float: right;
+   
+    margin-top: -175px;
+    margin-left: 140px;
+   opacity: 1;
+   
+}
+#checkbox{
+    background: #fff;
+    
+}
+#search{
+    
+     margin-top: -42px;
+    margin-left: 800px;
+}
+#search1{
+    height: 22px;
+}
+#search2{
+    height: 28px;
+    width: 25px;
+    margin-left: -10px;
+     background-image:url(../gra/down.jpg);
+   
+    
+}
+#sout{
+    margin-top: 35px;
+    
+}
